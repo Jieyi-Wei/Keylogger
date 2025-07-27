@@ -1,0 +1,11 @@
+cffi==1.15.1
+cryptography==37.0.4
+numpy==1.23.1
+Pillow==9.2.0
+pycparser==2.21
+pyperclip==1.8.2
+pynput==1.7.6
+psutil==5.9.1
+scipy==1.9.0
+six==1.16.0
+sounddevice==0.4.4
